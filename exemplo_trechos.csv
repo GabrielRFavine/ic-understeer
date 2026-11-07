@@ -1,0 +1,6 @@
+trecho,tipo,comprimento_m,raio_m
+1,reta,30,
+2,curva,25,12
+3,reta,15,
+4,curva,20,9
+5,reta,30,
